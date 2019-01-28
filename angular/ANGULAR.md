@@ -1,6 +1,6 @@
-#Angular
+# Angular
 
-##Auto compile not working
+## Auto compile not working
 Von Zeit zu Zeit funktioniert das automatische Kompilieren von Angular funktioniert nicht mehr. Hier helfen folgende zwei Shell befehle.
 
 ```
