@@ -7,7 +7,7 @@ http://doc.aldebaran.com/2-8/dev/community_software.html#retrieving-software
 Alles Mögliche nachschauen über *NAOqi*(Betriebssystem) und Pepper:
 ```
 http://doc.aldebaran.com/2-8/index_dev_guide.html
-```#
+```
 Um zu sehen was Pepper sieht, links in der Mitte von *Robot view* auf *Video monitor* umstellen.
 
 Um Choregraphe mit Pepper zu Verbinden, einfach oben links auf Connection: Connect to...
