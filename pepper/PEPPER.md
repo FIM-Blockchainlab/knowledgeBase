@@ -7,7 +7,9 @@ http://doc.aldebaran.com/2-8/dev/community_software.html#retrieving-software
 Alles Mögliche nachschauen über *NAOqi*(Betriebssystem) und Pepper:
 ```
 http://doc.aldebaran.com/2-8/index_dev_guide.html
-```
+```#
+Um zu sehen was Pepper sieht, links in der Mitte von *Robot view* auf *Video monitor* umstellen.
+
 Um Choregraphe mit Pepper zu Verbinden, einfach oben links auf Connection: Connect to...
 und dort die jeweilige IP-Adresse eingeben, die man von Pepper bekommt indem man kurz auf den On/Off Button drückt.
 
@@ -30,3 +32,6 @@ https://github.com/kokorobot/pepper_samples
 ```
 
 Man kann Choregraphe auch zweimal auf dem gleichen PC öffnen und dann beide Peppers mit einem Computer steuern.
+
+Auf der Rückseite des Tabletts sind Knöpfe. 
+
