@@ -35,3 +35,9 @@ Man kann Choregraphe auch zweimal auf dem gleichen PC öffnen und dann beide Pep
 
 Auf der Rückseite des Tabletts sind Knöpfe. 
 
+Die Lautstärke kann man auf verschiedene Arten steuern:
+1. Zu Pepper sagen: "launch settings"
+2. Zu Pepper sagen: "Speak softer" ---> Tablet
+3. Zu Pepper sagen: "Speak louder" ---> Tablet
+4. Im Browser Peppers IP eingeben.
+5. In Choregraphe oben rechts neben *autonoumus life* Button etc.
