@@ -9,10 +9,12 @@ und dort die jeweilige IP-Adresse eingeben, die man von Pepper bekommt indem man
 
 Damit Pepper beim programmieren nicht ständig auf die Umgebung reagiert während man Programme testet, einfach Autonomous Life deaktivieren. (Oben rechts: Knopf mit Herz, dann Knopf mit Sonne)
 
-Wenn man von unten links Blöcke in die Mitte gezogen hat, sieht man eine Beschreibung sowie Einstellungen des Angeklickten Bausteins im *Inspector* unten rechts.
+Wenn man von unten links Blöcke in die Mitte gezogen hat, sieht man eine Beschreibung sowie Einstellungen des Angeklickten Bausteins im *Inspector* unten rechts
+
+Mit einem Doppelklick auf die Blöcke öffnet man _meistens_ das Fenster, in dem der Python-Code des Bausteins steht.
 
 Um Bewegungsabläufe zu erstellen gibt es den *Animation Mode*. Dazu benutzt man den *Timeline* Block.
-Wenn man Doppelklick auf diesen Block macht öffnet sich ein neues Modul, welches in frames geteilt ist. Dort ist es möglich jeden Frame (jede 25stel Sekunde) die Position der Gelenke anzupassen.
+Wenn man Doppelklick auf _diesen_ Block macht öffnet sich ein neues Modul, welches in frames geteilt ist. Dort ist es möglich jeden Frame (jede 25stel Sekunde) die Position der Gelenke anzupassen.
 
 Die Körperteile kann man entweder in der *Robot view* rechts oben anklicken und bewegen, oder in dem Modul darunter (*Inspector*), wo sich bei anklicken ein Fenster mit Schiebeschaltern öffnet.
 
@@ -22,3 +24,6 @@ Um eine selbstprogrammierte Website auf dem Tablet anzuzeigen, folgende Applikat
 ```
 https://github.com/kokorobot/pepper_samples
 ```
+
+Man kann Choregraphe auch zweimal auf dem gleichen PC öffnen und dann beide Peppers mit einem Computer steuern.
+
