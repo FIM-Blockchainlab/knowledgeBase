@@ -18,3 +18,7 @@ Die Körperteile kann man entweder in der *Robot view* rechts oben anklicken und
 
 Pepper bewegt sich nicht wenn sich ein potenzielles Hindernis in ihrer Nähe befindet. Auch wenn die verschiedenen Positionen zu schnell aufeinander folgen (*Timeline*), kann das zu inkorrekter Ausführung der Bewegung führen.
 
+Um eine selbstprogrammierte Website auf dem Tablet anzuzeigen, folgende Applikation herunterladen und mit Choregraphe ausführen:
+```
+https://github.com/kokorobot/pepper_samples
+```
