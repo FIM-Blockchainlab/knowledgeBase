@@ -20,7 +20,7 @@ Wenn man von unten links Blöcke in die Mitte gezogen hat, sieht man eine Beschr
 Mit einem Doppelklick auf die Blöcke öffnet man _meistens_ das Fenster, in dem der Python-Code des Bausteins steht.
 
 Um Bewegungsabläufe zu erstellen gibt es den *Animation Mode*. Dazu benutzt man den *Timeline* Block.
-Wenn man Doppelklick auf _diesen_ Block macht öffnet sich ein neues Modul, welches in frames geteilt ist. Dort ist es möglich jeden Frame (jede 25stel Sekunde) die Position der Gelenke anzupassen.
+Wenn man Doppelklick auf _diesen_ Block macht öffnet sich ein neues Modul, welches in Frames eingeteilt ist. Dort ist es möglich jeden Frame (jede 25stel Sekunde) die Position der Gelenke anzupassen.
 
 Die Körperteile kann man entweder in der *Robot view* rechts oben anklicken und bewegen, oder in dem Modul darunter (*Inspector*), wo sich bei anklicken ein Fenster mit Schiebeschaltern öffnet.
 
