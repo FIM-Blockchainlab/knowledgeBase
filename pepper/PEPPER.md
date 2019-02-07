@@ -58,6 +58,7 @@ Tablet von Pepper zeigt Website an, welche sich im Programm Ordner befindet (htm
 Ein Programm welches mithilfe des choice-Blockes je nach Sprachbefehl Pepper etwas anderes machen lässt.
 
 Um diesen choice-Block so verwenden zu können, muss man folgendes machen:
+```
 1. choice-Block ins Programm ziehen
 2. Doppelklick auf Block machen
 3. Dort den *Localized Text* Block löschen
@@ -71,3 +72,4 @@ Um diesen choice-Block so verwenden zu können, muss man folgendes machen:
 11. Wenn alle Outputs richtig verbunden sind, mit einem Doppelklick irgendwo neben dem Block wieder in Hauptprogramm zurückkehren.
 12. Dort kannst nun jeden Output des choice-Blockes mit dem Block verbinden, der aufgerufen werden soll, wenn der jeweilige Befehl wahrgenommen wurde.
 13. Den choice-Block muss man natürlich noch mit dem Startpunkt des Programmes verbinden.
+```
